@@ -2,7 +2,7 @@
 Uncertainty quantification in a data-driven world: an overview of cross-validation, conformal prediction and the bootstrap
 
 
-<img align="center" src="screenshot.png" width=600>
+<a href="#"><img align="center" src="screenshot.png" width=600></a>
 
 ## How to get started
 
