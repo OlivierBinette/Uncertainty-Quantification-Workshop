@@ -9,7 +9,7 @@ Uncertainty quantification in a data-driven world: an overview of cross-validati
 ### Method 1
 
 1. [Connect to Duke's VPN](https://oit.duke.edu/what-we-do/services/vpn#:~:text=You%20can%20connect%20to%20Duke's,software%20program%20onto%20your%20computer.&text=Or%20you%20can%20visit%20https,VPN%20software%20onto%20your%20computer.)
-2. Find the online tutorial here: http://num1.stat.duke.edu:3939/content/7
+2. Then find the online tutorial here: http://num1.stat.duke.edu:3939/content/7
 
 ### Method 2
 
